@@ -104,6 +104,7 @@ Open this notebook to:
 
 ## 5. Repository structure
 
+```text
 safetycopilot/
 ├─ notebooks/
 │  └safetycopilot-functional-safety-checklist-agent.ipynb   # Original Kaggle notebook
